@@ -1,5 +1,3 @@
-# AnyColorYouLike
-
 ## Description
 
 This package does one thing only. It samples 20 pixels across the borders of an image and returns the most frequently appearing color.
