@@ -1,0 +1,21 @@
+{
+	"name": "any-color-you-like",
+	"version": "0.1.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha ./tests"
+	},
+	"keywords": [],
+	"author": "Peter Correa",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.21.1",
+		"image-js": "^0.31.4",
+		"sharp": "^0.28.3"
+	},
+	"devDependencies": {
+		"chai": "^4.3.4",
+		"mocha": "^9.0.1"
+	}
+}
