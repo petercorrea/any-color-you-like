@@ -1,6 +1,6 @@
 ## Description
 
-This package does one thing only. It samples 20 pixels across the borders of an image and returns the most frequently appearing color.
+This package does one thing only, it samples 20 pixels across the borders of an image and returns the most frequently appearing color.
 <br/><br/>
 
 ## API
@@ -13,5 +13,5 @@ This package does one thing only. It samples 20 pixels across the borders of an 
 
 ## Scripts
 
-`npm test` will test that the function works as expected for both string and buffer inputs.
+`npm test` will test that the function works as expected for red, blue, green, cyan, yellow, magenta, black and white.
 <br/><br/>
