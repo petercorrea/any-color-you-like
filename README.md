@@ -10,6 +10,9 @@ This package does one thing only. It samples 20 pixels across the borders of an 
 `getBgColor(string | buffer)`: an async function that accepts either a string representing a URL or the raw buffer data of the image. Returns the most frequent color in hexadecimal format.
 <br/><br/>
 
+`getBgColorFromPath(string)`: an async function that accepts a string representing a path to the image. Returns the most frequent color in hexadecimal format.
+<br/><br/>
+
 ## Scripts
 
 `npm test` will test that the function works as expected for both string and buffer inputs.
